@@ -1,0 +1,15 @@
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.csproj.AssemblyReference.cache
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.AssemblyInfoInputs.cache
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.AssemblyInfo.cs
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.csproj.CoreCompileInputs.cache
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/bin/Debug/net7.0/ATM
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/bin/Debug/net7.0/ATM.deps.json
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/bin/Debug/net7.0/ATM.runtimeconfig.json
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/bin/Debug/net7.0/ATM.dll
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/bin/Debug/net7.0/ATM.pdb
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.dll
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/refint/ATM.dll
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.pdb
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ATM.genruntimeconfig.cache
+/Users/meilaninishimura/Documents/learning_c#/ATM_APP_C#/ATM/ATM/obj/Debug/net7.0/ref/ATM.dll
